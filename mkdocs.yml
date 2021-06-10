@@ -1,0 +1,8 @@
+site_name: Claude's Blog
+nav:
+    - Home: 'index.md'
+    - Archive:
+        - 'C++': 'articles/vscode/index.md'
+        - 'Rust': 'articles/vscode/index.md'
+        - 'VS Code': 'articles/vscode/index.md'
+        - 'Other': 'articles/vscode/index.md'
